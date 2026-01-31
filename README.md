@@ -1,6 +1,6 @@
 # Chinook Data Speech Agent
 
-<video controls src="AgentDemo.mp4" title="Title"></video>
+[![Watch](./AgentDemo.mp4)](./AgentDemo.mp4)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
